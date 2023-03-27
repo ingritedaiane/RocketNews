@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    position: absolute;
+    height: 100vh;
+    width: 900px;
+}
+
+h1 img {
+    width: 389px;
+    height: 94px;
+    margin: 50px 301px 92px 30px;
+}
+
+h2 {
+    font-family:'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #08C05E;
+    line-height: 28px;
+    margin: 0 118px 8.56px 36px;
+}
+
+h3 {
+    font-family:'League Spartan', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 16px;
+    margin:0 167px 9px 36px;
+}
+
+p {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 19px;
+    margin: 0 37px 50px 36px;
+}
+
+#dados {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #A8A8A8;
+    line-height: 19px;
+    margin: 0 551px 67px 36px;
+}
+
+form {
+    width: 5px;
+    height: 48px;
+    position: absolute;
+    left: 36px;
+    top: 424px;
+    background-color: #04D361;
+}
+
+input {
+    height: 49px;
+    width: 780px;
+    background: #FFFFFF;
+    margin: 0 0 50px 5px ;
+    padding: 10px 574px 10px 12px;
+}
+
+button {
+    border-radius: 3px;
+    width: 48px;
+    height: 48px;
+    background-color: #8257E5;
+    position: absolute;
+    left: 736px;
+    bottom: 0px;
+}
+
+#send img {
+    width: 24px;
+    height: 24px;   
+}
+
+#view {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #8257E5;
+    line-height: 19px;
+    margin: 0 517px 237px 36px;
+}
+
+#view img {
+    width: 24px;
+    height: 24px;
+    background-color: black;
+    color: #8257E5;
+    position: relative;
+    top: 9px;
+}
+
+.readnews img {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 690px;
+    width: 50vw;
+    height: 100vh;
+    object-fit: cover;
+    object-position: 80%;
+}
