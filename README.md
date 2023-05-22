@@ -20,5 +20,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
  Criar uma página que contenha um formulário para que o usuário possa inserir o e-mail ✔️<br>
  ##   
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO%20COM%20SUCESSO&color=GREEN&style=for-the-badge"/><br>
-<a href="https://ingritedaiane.github.io/RocketNews/" target_="blank"> Vizualize em tela cheia, clique aqui!</a>📌<br>
-<a href="https://ingritedaiane.github.io/RocketNews/" target_="blank"> View in full screen, clicking here!</a>📌
+
